@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 ### Some of my projects:
-- [musairul.github.io/library]
-- [musairul.github.io/calculator]
+- <musairul.github.io/library>
+- <musairul.github.io/calculator>
 - [musairul.github.io/admin-dashboard]
 - [musairul.github.io/sign-up]
 - [musairul.github.io/etch-a-sketch]
