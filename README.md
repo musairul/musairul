@@ -1,12 +1,12 @@
 ## Hi there 👋
 
 ### Some of my projects:
-- [Library](musairul.github.io/library)
-- [Calculator](musairul.github.io/calculator)
-- [Admin Dashboard](musairul.github.io/admin-dashboard)
-- [Etch-a-sketch](musairul.github.io/etch-a-sketch)
-- [Sign up](musairul.github.io/sign-up)
-- [First site](musairul.github.io/first-site)
+- <https://musairul.github.io/library>
+- <https://musairul.github.io/calculator>
+- <https://musairul.github.io/admin-dashboard>
+- <https://musairul.github.io/etch-a-sketch>
+- <https://musairul.github.io/sign-up>
+- <https://musairul.github.io/first-site>
 
 <!--
 **musairul/musairul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
