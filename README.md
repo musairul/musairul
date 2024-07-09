@@ -6,6 +6,7 @@
 - [Tic tac toe](https://musairul.github.io/tic-tac-toe)
 - [Admin Dashboard](https://musairul.github.io/admin-dashboard)
 - [Etch-a-sketch](https://musairul.github.io/etch-a-sketch)
+- [Restaurant](https://musairul.github.io/restaurant)
 - [Sign up](https://musairul.github.io/sign-up)
 - [First site](https://musairul.github.io/first-site)
 
