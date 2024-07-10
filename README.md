@@ -1,9 +1,10 @@
 ## Hi there 👋
 
 ### Some of my projects:
-- [Library](https://musairul.github.io/library)
+- [Todo](https://musairul.github.io/todo)
 - [Calculator](https://musairul.github.io/calculator)
 - [Tic tac toe](https://musairul.github.io/tic-tac-toe)
+- [Library](https://musairul.github.io/library)
 - [Admin Dashboard](https://musairul.github.io/admin-dashboard)
 - [Etch-a-sketch](https://musairul.github.io/etch-a-sketch)
 - [Restaurant](https://musairul.github.io/restaurant)
