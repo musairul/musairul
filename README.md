@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 ### Some of my projects:
+- [Memory Game](https://pokemon-memory-game-cyggw741l-musairuls-projects.vercel.app/)
+- [CV Builder](https://cv-creator-qavnfwr5e-musairuls-projects.vercel.app/)
 - [Todo](https://musairul.github.io/todo)
 - [Calculator](https://musairul.github.io/calculator)
 - [Tic tac toe](https://musairul.github.io/tic-tac-toe)
