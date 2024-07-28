@@ -6,6 +6,7 @@
 - [Shopping Site](https://shopping-website-khaki.vercel.app/)
 - [Todo](https://musairul.github.io/todo)
 - [Calculator](https://musairul.github.io/calculator)
+- [Weather App](https://musairul.github.io/weather-app/)
 - [Tic tac toe](https://musairul.github.io/tic-tac-toe)
 - [Library](https://musairul.github.io/library)
 - [Admin Dashboard](https://musairul.github.io/admin-dashboard)
