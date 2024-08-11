@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 ### Some of my projects:
+- [Inventory App](https://github.com/musairul/inventory-app)
 - [Message Board](https://exceptional-lanna-musairul-19316b47.koyeb.app/)
 - [CV Builder](https://cv-creator-qavnfwr5e-musairuls-projects.vercel.app/)
 - [Shopping Site](https://shopping-website-khaki.vercel.app/)
