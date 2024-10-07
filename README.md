@@ -1,4 +1,7 @@
 ## Hi there 👋
+In this github, you will mostly see my projects from learning web development for fun through [The Odin Project](https://www.theodinproject.com/)
+
+If any links to projects dont work, its likely because I use free tiers of hosting providers and they typically only allow 1 site at a time and sometimes they shut links down if theres no users
 
 ### Some of my projects:
 - [Inventory App](https://github.com/musairul/inventory-app)
