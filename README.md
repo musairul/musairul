@@ -4,6 +4,7 @@ In this github, you will mostly see my projects from learning web development fo
 If any links to projects dont work, its likely because I use free tiers of hosting providers and they typically only allow 1 site at a time and sometimes they shut links down if theres no users
 
 ### Some of my projects:
+- [My Blog](musairul.github.io/blog/)
 - [Inventory App](https://github.com/musairul/inventory-app)
 - [Message Board](https://exceptional-lanna-musairul-19316b47.koyeb.app/)
 - [CV Builder](https://cv-creator-qavnfwr5e-musairuls-projects.vercel.app/)
