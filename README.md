@@ -2,7 +2,7 @@
 
 In this github, you will mostly see my projects from learning web development for fun through [The Odin Project](https://www.theodinproject.com/)
 
-Also some open source programs I have made for fun or for personal use (see pinned repos). Most personal use projects were made using AI assisted development, the Odin project stuff I did with no AI so I could actually learn.
+Also some open source programs I have made for fun, hackathon projects, or for personal use (see pinned repos). 
 
 If any links to projects dont work, its likely because I use free tiers of hosting providers and they typically only allow 1 site at a time and sometimes they shut links down if theres no users
 
